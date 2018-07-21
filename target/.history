@@ -1,0 +1,4 @@
+sbt compile test updateClassifiers updateSbtClassifiers
+compile
+sbt package
+compile
